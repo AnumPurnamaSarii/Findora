@@ -1,0 +1,10 @@
+0000000000000000000000000000000000000000 ac7d6bc634e8ea2040b6f37efacc2d068d07a256 AnumPurnamaSarii <lighftmoon@gmail.com> 1793551737 +0700	commit (initial): New Project
+ac7d6bc634e8ea2040b6f37efacc2d068d07a256 0000000000000000000000000000000000000000 AnumPurnamaSarii <lighftmoon@gmail.com> 1793551825 +0700	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 ac7d6bc634e8ea2040b6f37efacc2d068d07a256 AnumPurnamaSarii <lighftmoon@gmail.com> 1793551825 +0700	Branch: renamed refs/heads/master to refs/heads/main
+ac7d6bc634e8ea2040b6f37efacc2d068d07a256 574b49484dbe9061665b12767bb7e119fd3b86ac AnumPurnamaSarii <lighftmoon@gmail.com> 1793635572 +0700	commit: day 2
+574b49484dbe9061665b12767bb7e119fd3b86ac 574b49484dbe9061665b12767bb7e119fd3b86ac anumpurnamasari <anum240180041@mhs.unimal.acc.id> 1793636180 +0700	checkout: moving from main to feat/kontributor
+574b49484dbe9061665b12767bb7e119fd3b86ac f21183b0401591e263e2d1189e0f2e92075e8135 anumpurnamasari <anum240180041@mhs.unimal.acc.id> 1793636255 +0700	commit: day 2
+f21183b0401591e263e2d1189e0f2e92075e8135 3c0fa4c5dee381904160593802afa21ac76c2505 anumpurnamasari <anum.240180041@mhsunimal.ac.id> 1793636721 +0700	commit (amend): day 2
+3c0fa4c5dee381904160593802afa21ac76c2505 574b49484dbe9061665b12767bb7e119fd3b86ac anumpurnamasari <anum.240180041@mhsunimal.ac.id> 1793636877 +0700	checkout: moving from feat/kontributor to main
+574b49484dbe9061665b12767bb7e119fd3b86ac 3c0fa4c5dee381904160593802afa21ac76c2505 anumpurnamasari <anum.240180041@mhsunimal.ac.id> 1793636899 +0700	merge feat/kontributor: Fast-forward
+3c0fa4c5dee381904160593802afa21ac76c2505 53f4320ab9be24f91b3cf89fdc98924a17eb83ce anumpurnamasari <anum.240180041@mhsunimal.ac.id> 1793722718 +0700	commit: day 3
